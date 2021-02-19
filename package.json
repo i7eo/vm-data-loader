@@ -1,0 +1,28 @@
+{
+  "name": "vm-data-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i7eo/vm-data-loader.git"
+  },
+  "keywords": [
+    "vm-loader",
+    "velocity",
+    "webpack"
+  ],
+  "dependencies": {
+    "loader-utils": "0.2.16",
+    "velocityjs": "^2.0.2"
+  },
+  "author": "i7eo <george704t@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i7eo/vm-data-loader/issues"
+  },
+  "homepage": "https://github.com/i7eo/vm-data-loader#readme"
+}
